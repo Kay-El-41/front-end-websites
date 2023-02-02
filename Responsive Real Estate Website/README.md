@@ -10,4 +10,5 @@
 
 💙 Credits; [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
+#### Preview
+(/preview.png)
